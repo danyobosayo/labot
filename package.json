@@ -1,0 +1,26 @@
+{
+  "name": "labot",
+  "version": "1.0.0",
+  "description": "discord productivity bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyobosayo/labot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/danyobosayo/labot/issues"
+  },
+  "homepage": "https://github.com/danyobosayo/labot#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
+}
